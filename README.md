@@ -26,5 +26,11 @@ Recent advances in the diffusion models have significantly improved text-to-imag
 
 ## Citation
 ```
-
+        @inproceedings{lee2024grid,
+          title={Grid Diffusion Models for Text-to-Video Generation},
+          author={Lee, Taegyeong and Kwon, Soyeong and Kim, Taehwan},
+          booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+          pages={8734--8743},
+          year={2024}
+        }
 ```
