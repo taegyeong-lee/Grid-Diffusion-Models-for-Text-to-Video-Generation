@@ -1,8 +1,8 @@
-# **Grid Diffusion Models for Text-to-Video Generation, CVPR 2024**
+# **GridDiff: Grid Diffusion Models for Text-to-Video Generation, CVPR 2024**
 
 This repository is the official implementation of [**Grid Diffusion Models for Text-to-Video Generation**](https://arxiv.org/abs/2404.00234).
 
-**[Grid Diffusion Models for Text-to-Video Generation](https://arxiv.org/abs/2404.00234)**
+**[GridDiff: Grid Diffusion Models for Text-to-Video Generation](https://arxiv.org/abs/2404.00234)**
 <br/>
 [Taegyeong Lee*](https://sites.google.com/view/taegyeonglee/home), 
 [Soyeong Kwon*](https://sites.google.com/view/soyeongkwon),Taehwan Kim
