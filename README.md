@@ -17,7 +17,8 @@ Recent advances in the diffusion models have significantly improved text-to-imag
 
 ## News
 - [04-02-2024] README.md
-
+- [08-17-2024] Add video to grid image preprocess code
+- 
 ## Approach
 ![image](https://taegyeong-lee.github.io/static/images/t2v/method_overview.png)
 
