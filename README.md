@@ -18,7 +18,7 @@ Recent advances in the diffusion models have significantly improved text-to-imag
 ## News
 - [04-02-2024] README.md
 - [08-17-2024] Add video to grid image preprocess code
-- 
+- [08-18-2024] Add grid image to parquet
 ## Approach
 ![image](https://taegyeong-lee.github.io/static/images/t2v/method_overview.png)
 
@@ -27,11 +27,11 @@ Recent advances in the diffusion models have significantly improved text-to-imag
 
 ## Citation
 ```
-        @inproceedings{lee2024grid,
-          title={Grid Diffusion Models for Text-to-Video Generation},
-          author={Lee, Taegyeong and Kwon, Soyeong and Kim, Taehwan},
-          booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-          pages={8734--8743},
-          year={2024}
-        }
+  @inproceedings{lee2024grid,
+    title={Grid Diffusion Models for Text-to-Video Generation},
+    author={Lee, Taegyeong and Kwon, Soyeong and Kim, Taehwan},
+    booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+    pages={8734--8743},
+    year={2024}
+  }
 ```
