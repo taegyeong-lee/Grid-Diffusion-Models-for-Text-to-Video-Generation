@@ -95,13 +95,11 @@ def filein(path, v_name):
     else: return False
 
 
-output_folder_path = "/home1/s20225518/T2V_CVPR_2024/test"
-csv_file = "/home2/taegyeong/results_2M_train.csv"
-df_results = pd.read_csv(csv_file)
+output_folder_path = "/home1/T2V_CVPR_2024/output"
 
-split_number = 100
-order = 12
-video_folder_paths = "/data6/webvid_backup/*"
+split_number = 100 # 100 videos
+order = 12  # 12 
+video_folder_paths = "/webvid/*"
 
 folder_list = sorted(glob.glob(video_folder_paths))[order * split_number: (order + 1) * split_number]
 
