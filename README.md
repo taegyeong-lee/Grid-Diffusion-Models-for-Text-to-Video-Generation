@@ -19,6 +19,8 @@ Recent advances in the diffusion models have significantly improved text-to-imag
 - [04-02-2024] README.md
 - [08-17-2024] Add video to grid image preprocess code
 - [08-18-2024] Add grid image to parquet
+- [08-27-2024] Add training code (inter1 and inter)
+ 
 ## Approach
 ![image](https://taegyeong-lee.github.io/static/images/t2v/method_overview.png)
 
