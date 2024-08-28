@@ -25,8 +25,8 @@ Recent advances in the diffusion models have significantly improved text-to-imag
 ![image](https://taegyeong-lee.github.io/static/images/t2v/method_overview.png)
 
 ## Usage
- We are in the process of refactoring the code.
-
+- We first extract a key frame from the video to construct a key grid image (using preprocess/im2par_inter1/inter2/key, mp42grid_2x2.py files).
+  
 ## Citation
 ```
   @inproceedings{lee2024grid,
